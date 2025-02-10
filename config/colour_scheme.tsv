@@ -1,0 +1,111 @@
+field	value	hex_color
+host_type	Human	#C5C50C
+host	Homo sapiens	#C5C50C
+region	Central-West	#69C50C
+region	North	#C5880C
+region	Northeast	#0C2BC5
+region	South	#C50C49
+region	Southeast	#0CA6C5
+division	Distrito Federal	#336600
+division	Goias	#69C50C
+division	Mato Grosso	#A0E854
+division	Mato Grosso do Sul	#D4F0B8
+division	Amazonas	#664400
+division	Para	#C5880C
+division	Roraima	#E8B854
+division	Tocantins	#F0DEB8
+division	Alagoas	#001166
+division	Bahia	#041C95
+division	Ceara	#0B29C1
+division	Maranhao	#1538EA
+division	Pernambuco	#4A64E8
+division	Piaui	#7B8DEA
+division	Rio Grande do Norte	#AAB5EE
+division	Sergipe	#D6DBF5
+division	Parana	#C50C49
+division	Minas Gerais	#037187
+division	Rio de Janeiro	#30CAE8
+division	Sao Paulo	#B8E7F0
+location		#031A8D
+location	Aparecida de Goiania	#438402
+location	Goiania	#54A106
+location	Trindade	#64BD0B
+location	Cuiaba	#75D711
+location	Sinop	#86E91F
+location	Varzea Grande	#96E841
+location	Coronel Sapucaia	#A6E861
+location	Maracaju	#B6EA80
+location	Mundo novo	#C6EC9E
+location	Paranhos	#D6F0BA
+location	Ponta Pora	#E6F5D6
+location	Manaus	#664400
+location	Boa Vista	#AD7708
+location	Bonfim	#CF8F0E
+location	Iracema	#E9A61B
+location	Araguaina	#E8B244
+location	Colinas do Tocantins	#E9C06B
+location	Palmas	#EBCE91
+location	Presidente Kennedy	#EFDCB4
+location	Wanderlandia	#F5EBD6
+location	Capela	#001166
+location	Maceio	#011473
+location	Uniao dos Palmares	#021781
+location	Camacan	#051E9A
+location	Campo Alegre De Lourdes	#0721A7
+location	Campo Formoso	#0925B3
+location	Condeuba	#0B29BF
+location	Eunapolis	#0E2DCB
+location	Feira de Santana	#1031D6
+location	Gongogi	#1335E2
+location	Ipecaeta	#1A3CE9
+location	Itabuna	#2948E9
+location	Itajuipe	#3754E8
+location	Sapeacu	#4660E8
+location	Caucaia	#546CE8
+location	Fortaleza	#6278E8
+location	Itatira	#7084E9
+location	Sao Luis	#7D8FEA
+location	Caruaru	#8B9AEB
+location	Recife	#98A5EC
+location	Teresina	#A5B0ED
+location	Natal	#B1BBEF
+location	Aracaju	#BEC6F1
+location	Monte Alegre de Sergipe	#CAD1F3
+location	Porto da Folha	#D6DBF5
+location	Apucarana	#660022
+location	Cascavel	#950434
+location	Curitiba	#C10B47
+location	Foz do Iguacu	#EA155B
+location	Irati	#E84A7E
+location	Paranagua	#EA7B9F
+location	Pato Branco	#EEAAC0
+location	Toledo	#F5D6E0
+location	Aracuai	#005566
+location	Belo Horizonte	#015F72
+location	Betim	#02697E
+location	Brumadinho	#037389
+location	Contagem	#047D95
+location	Datas	#0686A0
+location	Esmeraldas	#0790AB
+location	Francisco Sa	#0999B6
+location	Governador Valadares	#0BA3C1
+location	Montes Claros	#0EACCB
+location	Ribeirao das Neves	#10B5D5
+location	Salinas	#13BEE0
+location	Sarzedo	#15C7EA
+location	Simonesia	#23C8E9
+location	Duque de Caxias	#30CAE8
+location	Mesquita	#3DCCE8
+location	Niteroi	#4ACEE8
+location	Rio de Janeiro	#57D0E8
+location	Sao Goncalo	#63D3E8
+location	Sao Joao de Meriti	#6FD5E9
+location	Barretos	#7BD8EA
+location	Bertioga	#87DAEA
+location	Guaruja	#93DDEB
+location	Morro Agudo	#9FE0ED
+location	Pontal	#AAE3EE
+location	Ribeirao Preto	#B5E6EF
+location	Santos	#C0E9F1
+location	Sao Paulo	#CBEDF3
+location	Sao Vicente	#D6F0F5
